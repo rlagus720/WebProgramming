@@ -14,5 +14,7 @@
 		<input type="submit" value="로그인"><br/>
 	</form>
 
+	<a href="join.jsp">회원가입</a>
+
 </body>
 </html>
