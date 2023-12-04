@@ -2,20 +2,12 @@
     pageEncoding="UTF-8"%>
 <html lang="ko">
 <head>
-    <title>javaScriptTest</title>
+    <title>Listify</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-
-
-
-
     <!-- 반응형 구조 만들기 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
-
-
-
-
 
     <!-- 내부 CSS 스타일 지정 -->
     <style>
@@ -25,7 +17,14 @@
             height: 100%;
             margin : 0 auto;
             padding : 0;
-            border : none;    
+            border : none;
+            background-color: var(--white);
+  			background: url("c");
+  			background-attachment: fixed;
+  			background-position: center;
+  			background-repeat: no-repeat;
+  			background-size: cover;
+  			background: url("https://c.pxhere.com/photos/8e/13/hamburg_speicherstadt_lighting_light_night_fleet_wasserschl_sschen_teekontor-633828.jpg!d");
         }
 
 
@@ -36,6 +35,9 @@
             margin: 0 auto;
             position: relative;
             top: 5%;
+            background-color: #ffffff;
+        	opacity: 0.95;
+        	
         }
 
     </style>
