@@ -62,14 +62,14 @@
 body {
   align-items: center;
   background-color: var(--white);
-  background: url("https://c.pxhere.com/photos/8b/b4/stars_night_milky_way_universe_night_sky_stars-668973.jpg!d");
+  background: url("https://c.pxhere.com/photos/4c/3b/wristwatch_watch_time_gadget_accessory_device_wrist_hand-948934.jpg!d");
+  background-opacity: 0.5;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
   height: 100vh;
-  background-opacity: 50%;
   place-items: center;
 }
 
@@ -146,7 +146,7 @@ body {
 
 .overlay {
   background-color: var(--lightblue);
-  background: url("https://c.pxhere.com/photos/00/2a/clock_time_minute_hour_second_time_clock-832426.jpg!d");
+  background: url("https://c.pxhere.com/photos/4c/3b/wristwatch_watch_time_gadget_accessory_device_wrist_hand-948934.jpg!d");
   background-color: #ffffff;
   opacity: 1.0;
   background-attachment: fixed;
@@ -210,6 +210,7 @@ body {
   padding: 0.9rem 4rem;
   text-transform: uppercase;
   transition: transform 80ms ease-in;
+  opacity: 0.9;
 }
 
 .form > .btn {

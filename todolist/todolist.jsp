@@ -17,7 +17,14 @@
             height: 100%;
             margin : 0 auto;
             padding : 0;
-            border : none;    
+            border : none;
+            background-color: var(--white);
+  			background: url("c");
+  			background-attachment: fixed;
+  			background-position: center;
+  			background-repeat: no-repeat;
+  			background-size: cover;
+  			background: url("https://c.pxhere.com/photos/8e/13/hamburg_speicherstadt_lighting_light_night_fleet_wasserschl_sschen_teekontor-633828.jpg!d");
         }
 
 
@@ -28,6 +35,9 @@
             margin: 0 auto;
             position: relative;
             top: 5%;
+            background-color: #ffffff;
+        	opacity: 0.95;
+        	
         }
 
     </style>
